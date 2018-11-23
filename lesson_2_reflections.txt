@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ANSWER: When you initialize a repository, you create a ".git" file. The command
+to do so is "git init". This needs to be done to keep track of commits of files
+within the directory.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+ANSWER: The staging area is necessary because you may not want to include
+certain file in the final stage. Those unnecessary files files could add up and
+make the commits a clutter. 
