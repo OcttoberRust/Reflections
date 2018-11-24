@@ -9,3 +9,14 @@ automatically stay up-to-date with your remote repository?
 ANSWER: Pulling changes automatically may effect unprepared code in the local
 repository. Pulling manually ensures the user is aware of current changes
 to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+ANSWER:
+Forks - Github operation that clones from one repository into an empty one.
+Forks would be used to create one's own implementation of a project from another
+repository.
+Clones - Downloads an entire repository and its history into a local repository.
+Branches - Any branch diverging from the main branch, usually for experimentation
+or non production code.
