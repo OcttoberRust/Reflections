@@ -1,0 +1,4 @@
+When would you want to create a new repository rather than keeping all your work local? 
+
+ANSWER: You would want to create a new remote repository when access to the local repository
+is limited or when important production code needs a central location. 
