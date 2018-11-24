@@ -20,3 +20,9 @@ repository.
 Clones - Downloads an entire repository and its history into a local repository.
 Branches - Any branch diverging from the main branch, usually for experimentation
 or non production code.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+ANSWER: Access to the latest state without internet access. You have full
+funtionallity over it. 
