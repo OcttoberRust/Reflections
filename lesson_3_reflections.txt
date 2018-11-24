@@ -1,4 +1,11 @@
-When would you want to create a new repository rather than keeping all your work local? 
+When would you want to create a new repository rather than keeping all your work local?
 
 ANSWER: You would want to create a new remote repository when access to the local repository
-is limited or when important production code needs a central location. 
+is limited or when important production code needs a central location.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+ANSWER: Pulling changes automatically may effect unprepared code in the local
+repository. Pulling manually ensures the user is aware of current changes
+to the remote repository.
